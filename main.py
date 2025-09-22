@@ -1,6 +1,5 @@
 """
 Module permettant de vérifier si une chaîne de caractères est un palindrome.
-
 Un palindrome est une séquence qui se lit de la même manière
 de gauche à droite et de droite à gauche, indépendamment
 des majuscules, accents, espaces et ponctuation.
